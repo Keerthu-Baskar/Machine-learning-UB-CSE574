@@ -13,19 +13,19 @@ The goal of this project is to use machine learning to solve a problem in inform
 
 Result: Evaluated my solution on a test set using root mean square error
 
-#Proj 2: Finding similarities in hand-writing
+# Proj 2: Finding similarities in hand-writing
 
 The goal of the project is to apply machine learning to solve the handwriting comparison task in forensics using linear regression (gradient descent to train regression model) where I mapped a set of input features to real-value scalar target. CEDAR letter dataset(Human observed and GSC dataset using feature engineering) is used for this project.
 
 Result: Evaluated the solution using Root mean square error and the results are provided as graphs.
 
-#Proj 3: Classification
+# Proj 3: Classification
 
 This project is to implement machine learning methods for the task of classification. I have implemented an ensemble of four classifiers for a given task. The results of the individual classifiers are combined to make a final decision. The dataset used here is MNIST digit images and USPS dataset. The four classifiers applied are logistic regression, multilayer perceptron neural network, Random forest, support vector machine.
 
 Result: Evaluated each solution using classification accuracy, constructed a confusion matrix for each classifier and evaluated the performance of ensemble classfier
 
-Proj4: Tom and Jerry in Reinforcement learning
+# Proj4: Tom and Jerry in Reinforcement learning
 
 The project combines reinforcement learning and deep learning. The task is to teach the agent to navigate in the grid-world environment. The modeled game is Tom and Jerry cartoon where the agent (Tom) has to find the shortest path to reach Jerry (goal). To solve the problem, I have used deep reinforcement learning algorithm DQN (deep Q-Network)
 
