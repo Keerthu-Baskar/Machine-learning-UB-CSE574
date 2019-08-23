@@ -25,7 +25,7 @@ This project is to implement machine learning methods for the task of classifica
 
 Result: Evaluated each solution using classification accuracy, constructed a confusion matrix for each classifier and evaluated the performance of ensemble classfier
 
-# Proj4: Tom and Jerry in Reinforcement learning
+# Proj 4: Tom and Jerry in Reinforcement learning
 
 The project combines reinforcement learning and deep learning. The task is to teach the agent to navigate in the grid-world environment. The modeled game is Tom and Jerry cartoon where the agent (Tom) has to find the shortest path to reach Jerry (goal). To solve the problem, I have used deep reinforcement learning algorithm DQN (deep Q-Network)
 
